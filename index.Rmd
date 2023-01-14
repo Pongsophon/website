@@ -13,7 +13,7 @@ site: distill::distill_website
  
 ## Bio
 
-Pongprapan Pongsophon or shortly, Pong is an associate professor of science education at Kasetsart University, Bangkok, Thailand. He has been working there since 2006. At Kasetsart, he has taught science education courses at bachelor and graduate levels. He uses R on a daily basis, mostly for data manipulation and analysis. He has been studying other R's functionality such as here using r to create a website. Pong is interested in the application of structural equation modeling in science education research. He is a dog and cat lover. In his free time, he is usually found at a cozy cafe in Bangkok reading a newspaper and get himself updated and relaxed.  
+Pongprapan Pongsophon or shortly, Pong is an associate professor of science education at Kasetsart University, Bangkok, Thailand. He has been working there since 2006. At Kasetsart, he has taught science education courses at bachelor and graduate levels. He uses R programming on a daily basis, mostly for data manipulation and analysis. He has been studying other R's functionality such as here using r to create a website. Pong is interested in the application of structural equation modeling in science education research. He is a dog and cat lover. In his free time, he is usually found at a cozy cafe in Bangkok reading a newspaper and get himself updated and relaxed.  
 
 ## Education
 
@@ -34,19 +34,10 @@ B.Ed. in Secondary Science Teaching (Biology and General Science) 1st class hono
 **Post-doctoral training** | University of Missouri at Columbia, USA | 
 
 ## Selected publication
-Kumnuanek O., Pongsophon P., and Arunyawat, U. (2018). High School Students’ Sensitivity
-and Judgement on the Issue of Modern Biotechnology. Research Unit on Science,
-Technology and Environment for Learning. 9(1): (January-June). (In Thai). TCI (Group
-1), In press
+
+Anantanukulwong, R., Pongsophon, P.,  Chiangga, S., Tan, A. (2023). Exploring students' perceptions of learning equilibrium concepts through making Bulan kites. Physics Education, 58(1) id.015027, 13 pp.
+
+Anantanukulwong, R., Chiangga, S., Pongsophon, P.,  Tan, A. (2022). Enhancing Students’ Learning of the Concept of Equilibrium Through a Culturally Responsive Inquiry of the Bulan Kite. Science & Education. https://doi.org/10.1007/s11191-022-00398-0
 
 Pongsophon, P. & Herman, B. (2017). What Determines the Practices of Inquiry-Based
-Teaching in High-Performing Countries According to TIMSS 2011. International Journal
-of Science Education. 39 (10), 1304-1325 (DOI: 10.1080/09500693.2017.1328620). Social
-Science Citation Index, Scimago (Q1), Scopus
-
-Piriyawat, K., Pongsophon, P., Jantrarotai, P. (2017). Multiple-Case Studies: Perceptions of
-Lower Secondary School Science Teachers in regard to Technological Pedagogical Content Knowledge (TPACK) and Teaching Practices in Opportunity Expansion Schools. Journal of Research Unit on Science, Technology, and Environment for Learning, 8 (1), 141-171. (in Thai) TCI (Tier 1)
-
-Jituafua, A., Pongsophon, P., Visetson, S, & Kanchanawarin, C. (2015). Pre-Service science
-teachers’ understanding of nature of science and ability to integrate nature of science into
-teaching. Kasetsart Journal - Social Sciences. 36. 308-321. (in Thai) Scopus
+Teaching in High-Performing Countries According to TIMSS 2011. International Journal of Science Education. 39 (10), 1304-1325 (DOI:10.1080/09500693.2017.1328620). 
