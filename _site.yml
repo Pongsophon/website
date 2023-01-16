@@ -6,8 +6,13 @@ output_dir: "docs"
 theme: website.css 
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "NOS"
+      href: NOS.html
+    - text: "Lessons"
+      menu: 
+       - text: "Biodiversity"
+         href: biodiversity.html
+       - text: "Chemical Basis of Life"
+         href: biochem.html
+      
 output: distill::distill_article

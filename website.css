@@ -77,4 +77,20 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+
+d-article h1 {
+  color: #C34A79 !important;
+  font-size: 38px;
 }
+
+
+/*single space for the lists*/
+d-article li {
+    margin-bottom: 0em;
+}
+
+d-article a {
+  color: #C34A79;
+  border-bottom: none;
+}
+
