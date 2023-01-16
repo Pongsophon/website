@@ -3,9 +3,12 @@ title: "Pongprapan Pongsophon"
 image: "Pongprapan.jpg"
 links:
   - label: '<i class="fab fa-github"></i> GitHub'
-    url: "https://github.com/Pongsophon"
+    url: 'https://github.com/Pongsophon target= "blank_" '
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:pongprapan@gmail.com"
+    url: 'mailto:pongprapan@gmail.com target="blank_"'
+  - label: "<i class='fa fa-facebook-square'></i>"
+    url: 'https://www.facebook.com/pongprapan.pongsophon target = "blank_"'
+   
 output:
   postcards::trestles
 site: distill::distill_website

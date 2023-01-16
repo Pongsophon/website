@@ -1,0 +1,46 @@
+---
+title: "Pongprapan Pongsophon"
+image: "Pongprapan.jpg"
+links:
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/Pongsophon target= "blank_" '
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: 'mailto:pongprapan@gmail.com target="blank_"'
+  - label: "<i class='fa fa-facebook-square'></i>"
+    url: 'https://www.facebook.com/pongprapan.pongsophon target = "blank_"'
+   
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+Pongprapan Pongsophon or shortly, Pong is an associate professor of science education at Kasetsart University, Bangkok, Thailand. He has been working there since 2006. At Kasetsart, he has taught science education courses at bachelor and graduate levels. He uses R programming on a daily basis, mostly for data manipulation and analysis. He has been studying other R's functionality such as here using r to create a website. Pong is interested in the application of structural equation modeling in science education research. He is a dog and cat lover. In his free time, he is usually found at a cozy cafe in Bangkok reading a newspaper and get himself updated and relaxed.  
+
+## Education
+
+**Kasetsart University** 
+| Bangkok Thailand
+
+Ph.D. in Science Education | in 2005
+
+**Chulalongkorn University** 
+| Bangkok, Thailand
+
+B.Ed. in Secondary Science Teaching (Biology and General Science) 1st class honor | in 2000
+
+## Experience
+
+**Post-doctoral training ** | University of Arkansas, USA | 
+
+**Post-doctoral training** | University of Missouri at Columbia, USA | 
+
+## Selected publication
+
+Anantanukulwong, R., Pongsophon, P.,  Chiangga, S., Tan, A. (2023). Exploring students' perceptions of learning equilibrium concepts through making Bulan kites. Physics Education, 58(1) id.015027, 13 pp.
+
+
+Anantanukulwong, R., Chiangga, S., Pongsophon, P.,  Tan, A. (2022). Enhancing Students’ Learning of the Concept of Equilibrium Through a Culturally Responsive Inquiry of the Bulan Kite. Science & Education. https://doi.org/10.1007/s11191-022-00398-0
+
+Pongsophon, P. & Herman, B. (2017). A theory of planned behaviour-based analysis of TIMSS 2011 to determine factors influencing inquiry teaching practices in high-performing countries. International Journal of Science Education. 39 (10), 1304-1325 (DOI:10.1080/09500693.2017.1328620). 
