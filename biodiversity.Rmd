@@ -1,0 +1,24 @@
+---
+title: "Biodiversity"
+description: |
+  A new article created explaining some key concepts of biodiversity
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Introduction to Biodiversity 
+
+## Definition
+The term biodiversity (from “biological diversity”) refers to the variety of life on Earth at all its levels, from genes to ecosystems, and can encompass the evolutionary, ecological, and cultural processes that sustain life. (ref.https://www.amnh.org/)
+
+
+
+
+
+
+
+

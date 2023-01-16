@@ -1,0 +1,19 @@
+---
+title: "Chemical Basis of Life"
+description: |
+  A new article created to explain some key concepts in the unit, Chemical Basis of Life
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction 
+At its most fundamental level, life is made up of matter. Matter is any substance that occupies space and has mass. Elements are unique forms of matter with specific chemical and physical properties that cannot break down into smaller substances by ordinary chemical reactions. There are 118 elements, but only 98 occur naturally. The remaining elements are unstable and require scientists to synthesize them in laboratories (ref. https://opened.cuny.edu/courseware/lesson/608/overview)
+
+
+
+
