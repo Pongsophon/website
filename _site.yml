@@ -14,5 +14,6 @@ navbar:
          href: biodiversity.html
        - text: "Chemical Basis of Life"
          href: biochem.html
-      
+       - text: "Biomimicry"
+         href: biomimicry.html
 output: distill::distill_article
