@@ -3,6 +3,7 @@ title: "Pongprapan Pongsophon"
 description: |
   Pongprapan Pongsophon
 output_dir: "docs"
+theme: website.css 
 navbar:
   right:
     - text: "Home"
